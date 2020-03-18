@@ -6,10 +6,10 @@ OS: macos
 
 ## Install environment
 
-brew install 
-python3 -m venv ./
-source venv/bin/activate
-pip3 install requirements.txt
+- brew install 
+- python3 -m venv ./
+- source venv/bin/activate
+- pip3 install requirements.txt
 
 ## Run
 
